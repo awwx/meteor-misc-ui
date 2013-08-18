@@ -87,6 +87,7 @@ And then for the panes:
   <div class="tab-pane {{active "two"}}" id="two">...</div>
   <div class="tab-pane {{active "three"}}" id="three">...</div>
 </div>
+```
 
 The arguments to `setupTabBar` are:
 
